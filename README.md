@@ -18,14 +18,6 @@ No es un fallo del scraping, es que no existen en el archivo. Vías ya descartad
 feeds RSS históricos (solo contenían entradas de blog), `/recipes/feed/` y la API
 `/wp-json/wp/v2/recipe` (nunca archivadas), archive.today (devuelve HTTP 451).
 
-## Historia del dominio
-
-- Contenido real archivado hasta **finales de 2022**
-- Dominio **re-registrado el 2024-01-09 vía DropCatch.com** por un tercero
-- Hoy apunta a Cloudflare sin web
-- Conclusión: el dominio se perdió por caducidad, no por un fallo técnico.
-  Publicar bajo `recetasrosatovar.com` exigiría comprárselo al nuevo titular.
-
 ## Estructura
 
 ```
